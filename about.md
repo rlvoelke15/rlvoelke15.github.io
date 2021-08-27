@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+__Program__: Graduate Certificate Program in Statistics and Data Management
+__Anticipated Graduation__: December 2021
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+__Undergraduate Degree__: B.A in Statistics from Elon University (*Class of 2016*)
+__Hometown__: Charlotte, North Carolina
+![](C:\Users\Rebecca\OneDrive\Desktop\IMG_8953.JPG) 
 
-### Contact me
+### Contact Me
 
-[email@domain.com](mailto:email@domain.com)
+__E-Mail__: [rlvoelke@ncsu.edu](mailto:rlvoelke@ncsu.edu)
