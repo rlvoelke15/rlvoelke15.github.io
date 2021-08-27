@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-__Program__: Graduate Certificate Program in Statistics and Data Management 
+__Program__: Graduate Certificate Program in Statistics and Data Management  
 __Anticipated Graduation__: December 2021
 
 ### More Information
