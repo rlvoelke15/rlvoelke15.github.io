@@ -12,9 +12,7 @@ __Anticipated Graduation__: December 2021
 __Undergraduate Degree__: B.A in Statistics from Elon University (*Class of 2016*)  
 __Hometown__: Charlotte, North Carolina  
 
-```{r graphic, out.width = "800px", echo = FALSE}  
-knitr::include_graphics("C:\Users\Rebecca\OneDrive\Desktop\IMG_8953.JPG")
-```
+![Picture](C:\Users\Rebecca\OneDrive\Desktop\IMG_8953.JPG)  
 
 ### Contact Me
 
