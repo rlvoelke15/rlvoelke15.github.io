@@ -16,7 +16,7 @@ Currently, I work full-time for an Investment Bank as a Business Manager support
 
 I am looking forward to this class and learning more about R, Data Science and the potential applications of both to my personal, as well as professional, interests! 
 
-![Picture](https://github.com/rlvoelke15/rlvoelke15.github.io/blob/master/images/IMG_8953.JPG)  
+![](https://github.com/rlvoelke15/rlvoelke15.github.io/blob/master/images/IMG_8953.JPG)
 
 ### Contact Me
 
