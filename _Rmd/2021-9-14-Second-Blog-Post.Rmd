@@ -2,8 +2,12 @@
 title: "Programming Background"
 ---
 
-```{r setup, include = FALSE}
+```{r setup, echo = FALSE} 
 knitr::opts_chunk$set(fig.path = "../images/")
+```
+
+```{r renders, echo = FALSE, eval = FALSE}
+rmarkdown::render("C:/Users/Rebecca/OneDrive/Desktop/ST 558/Repos/rlvoelke15.github.io/_Rmd/2021-9-14-Second-Blog-Post.rmd", output_format = "github_document", output_dir = "C:/Users/Rebecca/OneDrive/Desktop/ST 558/Repos/rlvoelke15.github.io/_posts", output_options = list(html_preview = FALSE))
 ```
 
 ## ST 558 Blog Post 2
@@ -20,6 +24,6 @@ Overall, I know I still have a lot to learn about R and it's different features,
 
 ## R Markdown Output
 
-```{r plot, include = FALSE}
+```{r plot, echo = FALSE}
 plot(iris)
 ```

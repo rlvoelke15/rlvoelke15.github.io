@@ -41,3 +41,5 @@ features, and I look forward to being able to expand my knowledge and
 perhaps one day use it in parallel with SAS.
 
 ## R Markdown Output
+
+![](../images/plot-1.png)<!-- -->
