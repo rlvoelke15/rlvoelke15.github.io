@@ -1,6 +1,5 @@
 Programming Background
 ================
-Rebecca Voelker
 
 ## ST 558 Blog Post 2
 
@@ -42,9 +41,3 @@ features, and I look forward to being able to expand my knowledge and
 perhaps one day use it in parallel with SAS.
 
 ## R Markdown Output
-
-``` r
-plot(iris)
-```
-
-![](../images/plot-1.png)<!-- -->

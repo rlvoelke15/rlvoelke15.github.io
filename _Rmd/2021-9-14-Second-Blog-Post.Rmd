@@ -1,6 +1,5 @@
 ---
 title: "Programming Background"
-author: "Rebecca Voelker"
 ---
 
 ```{r setup, include = FALSE}
@@ -21,6 +20,6 @@ Overall, I know I still have a lot to learn about R and it's different features,
 
 ## R Markdown Output
 
-```{r plot}
+```{r plot, include = FALSE}
 plot(iris)
 ```
