@@ -13,8 +13,8 @@ project in the future?
 **Please Note these Links will Not be Active / Functional Until
 Thursday, October 7th (i.e. Project Due Date)**
 
-Link to COVID API Vignette: Link to ST 558 Project 1 Repo:
-<https://github.com/rlvoelke15/ST558Project1>
+Link to COVID API Vignette: https://rlvoelke15.github.io/ST558Project1/
+Link to ST 558 Project 1 Repo: <https://github.com/rlvoelke15/ST558Project1>
 
 For this Project Assignment, I connected to and queried data from the
 COVID API. I was able to build multiple function calls, across different
