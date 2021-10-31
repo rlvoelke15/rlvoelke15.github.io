@@ -4,8 +4,8 @@ ST 558 Blog Post Project 2
 ## Prompt
 
 PROMPT:
-.	Outline your project and reflect on the process - What would you do differently? What was the most difficult part for you? 
-.	What are you big takeaways from this project?
+1. Outline your project and reflect on the process - What would you do differently? What was the most difficult part for you? 
+2. What are you big takeaways from this project?
 
 ## Relevant Links
 
